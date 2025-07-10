@@ -17,6 +17,7 @@ export default function Home() {
           <li>
             Get started by editing <code>src/app/page.tsx</code>.
           </li>
+          <li>안녕하세요</li>
           <li>Save and see your changes instantly.</li>
         </ol>
 
